@@ -1,0 +1,20 @@
+{
+  "name": "ppm",
+  "version": "1.0.0",
+  "description": "Pulsar Package Manager",
+  "main": "./lib/apms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pulsar-edit/ppm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pulsar-edit/ppm/issues"
+  },
+  "homepage": "https://github.com/pulsar-edit/ppm#readme"
+}
